@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542336099531.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2764970864",
+    "id" : "F61BE6A0",
+    "lastKnownWriteTime" : 1542336199,
+    "last_content_update" : 1542336199156,
+    "path" : "~/code_stuff/r_stuff/first_website/content/post/2018-11-15-first-post.Rmd",
+    "project_path" : "content/post/2018-11-15-first-post.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,32",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

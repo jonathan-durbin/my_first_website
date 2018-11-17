@@ -1,0 +1,15 @@
+---
+title: First Post!
+author: Jon Durbin
+date: '2018-11-15'
+categories:
+  - rambling
+tags:
+  - plot
+  - regression
+slug: first-post
+---
+
+# Hi Tyger!
+## I love you
+### Hopefully tomorrow is better
